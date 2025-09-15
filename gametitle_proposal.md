@@ -42,15 +42,28 @@ Genre
 Backstory
 
 *The world is a broken, dark place. It is devoid of green nature, fresh air, and expansive beauty. Monsters roam free, tyrants rule with iron fists. A constant state of depression is everywhere. It didn’t used to be this way. Before the time of the player, the world was good. Its inhabitants lived normal lives, unhindered by dark forces. But something went drastically wrong.*   
-*The shadows underneath the world's crust started to stir. Banished to the void by the goddesses, the shadows lived in a place devoid of anything good. Jealous of what the surface had to offer, they started forming monsters to send out and destroy anything that the shadows didn’t have. Little by little, the world fell into darkness and evil. The player, the simple daughter of a blacksmith, lost her family and friends to a raid on their village. Burdened with grief and depression, the player sets out to destroy the forces that took away her family.* 
+*The Shadows underneath the world's crust started to stir. Banished to the void by the goddesses, the Shadows lived in a place devoid of anything good. Jealous of what the surface had to offer, they started forming monsters to send out and destroy anything that the shadows didn’t have. Little by little, the world fell into darkness and evil. The player, the simple daughter of a blacksmith, lost her family and friends to a raid on their village. Burdened with grief and depression, the player sets out to destroy the forces that took away her family.* 
 
 Characters
 
 Protagonist: A blacksmith of a simple village named *Reyna*. Her family has been stripped away by monsters. She wears only red colors, in defiance to the dark nature of the world. She has raven-black hair that hides her eyes, coming halfway down her back. She suffers from a constant state of depression and grief. Her mind is scattered and broken. 
 
-Antagonists: The shadows that stir underneath the world, in a 4-dimensional space known as the void. They are the essence of evil, banished there by the goddesses. 
+Antagonists: The Shadows that stir underneath the world, in a 4-dimensional space known as the void. They are the essence of evil, banished there by the goddesses. 
 
-Other key characters: Bosses, goddesses, spirit guides, monsters, NPCs.
+Eiya: The goddess of land. She created the physical world and universe. 
+
+Kiya: The goddess of life. She created everything that lives in the world, from the humans to the monsters.
+
+Siya: The goddess of time. She wrote the history of the world. The past, present, and future are all made known to her.
+
+Kai: A traveling blacksmith and merchant. He can be found anywhere you look, from dungeons to mountains to valleys. 
+He sells Reyna weapons and tools to asist her on her journey.
+
+Seil: A pointoneer trained int the art of alchemy. His prices are high, and he can be hard to find, but he sells the best potions. 
+He can be lurking anywhere, but he doen't stay in once place for very long.
+
+Muchka: A mischievous boy of 13. Everytime Reyna meets him, he always has something new for sale.
+His merchandise seems to be aquired through... unconventional practices, but it's hard to get a strait answere out of him when it comes to buisness. 
 
 Market / Audience
 
