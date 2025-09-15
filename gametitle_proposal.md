@@ -6,37 +6,37 @@ Genre
 
 * Core Genre:
 
-**Action**  
+   **Action**  
 \-The main gameplay will be continuous action through combat and the transversal of your environment. The player is led into continuous states of *action*. 
 
 * Scrolling/Perspective:
 
-**Multi-directional**  
+   **Multi-directional**  
 \-The game is an isometric perspective. The player is free to move about as they please in a given area. For instance, if they are in a dungeon, the player has access to any area they previously cleared. 
 
 * Movement & Abilities:
 
-**Flying/Gliding**  
+   **Flying/Gliding**  
 \-The player is equipped with a cloak that allows them to glide in the air for short periods of time. This can be used for getting around, and to enhance movement in combat situations. 
 
 * Action/Conflict:
 
-**Combat**  
+   **Combat**  
 \-The game is primarily combat based, with large amounts of enemies to eliminate with various weapons. The game will include a very wide variety of enemies, weapons and items. This gives the game multiple play-styles for the player to choose from. (e.g. tank, ranged, strategical, fast, tactical.) 
 
 * Structure/Progression:
 
-**Linear**  
+   **Linear**  
 \-The game does not allow much user interference with the story and progression. The story is fixed, as well as where the player progresses to next. It’s not so strict that the player has no room to explore or branch off, but it does not allow for massive deviation from the game’s progression. 
 
 * Aesthetic/Tone:
 
-**Dark**  
+   **Dark**  
 \-This tone is shown through the environment, visuals, sounds, styles, and enemies. This reflects the mental journey the player is going through. 
 
 * Challenge Style:
 
-**Exploration**  
+   **Exploration**  
 \-In order to progress in an area, such as a dungeon or village, the player must complete side-quests and activities. For instance, the player would have to clear rooms of monsters, assist a prisoner in need, or solve a puzzle to get a key to open a door. The world is interesting and vast, with many complex NPCs to interact with. The player should not shy away from being curious. 
 
 Backstory
