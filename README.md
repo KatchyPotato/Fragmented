@@ -1,5 +1,5 @@
 # Fragmented
-This repository contains the documents of a game idea called Fragmented.
+This repository contains the documents and images of a game idea called Fragmented.
 It follows the physical and mental journey of a player on a quest to save their world, and reach mental peace. The game includes:
 
  1. An engaging story
