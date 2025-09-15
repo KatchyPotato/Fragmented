@@ -8,5 +8,5 @@ It follows the physical and mental journey of a player on a quest to save their 
  4. Unique and complex characters
  5. A dark and visual world
 
-While this repo might not contain actual code for the game, it does contain documents that describe what the game would be in detail. 
+While this repo might not contain actual code for the game, it does contain documents and images that describe and show what the game would be in detail. 
 
