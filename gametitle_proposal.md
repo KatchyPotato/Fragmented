@@ -67,7 +67,7 @@ Story depth, art style, engaging gameplay, deep themes.
 
 Inspirations & Competition
 
-Wandersong: The journey of a bard intent on saving the world. YOu control your environment with your songs, meeting new people and developing relationships. It includes puzzles, platforming, and an engaging story. I take an engaging story from this game.  
+Wandersong: The journey of a bard intent on saving the world. You control your environment with your songs, meeting new people and developing relationships. It includes puzzles, platforming, and an engaging story. I take an engaging story from this game.  
 
 Wuppo: A story of a small, insignificant creature in a large and vast world. After being thrown out of your home, you set out to find a new place to stay, while learning more about the world you’re in. I take world building from this game. 
 
