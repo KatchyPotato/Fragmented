@@ -57,13 +57,31 @@ Kiya: The goddess of life. She created everything that lives in the world, from 
 Siya: The goddess of time. She wrote the history of the world. The past, present, and future are all made known to her.
 
 Kai: A traveling blacksmith and merchant. He can be found anywhere you look, from dungeons to mountains to valleys. 
-He sells Reyna weapons and tools to asist her on her journey.
+He sells Reyna weapons and tools to assist her on her journey.
 
-Seil: A pointoneer trained int the art of alchemy. His prices are high, and he can be hard to find, but he sells the best potions. 
-He can be lurking anywhere, but he doen't stay in once place for very long.
+Seil: A pointoneer trained in the art of alchemy. His prices are high, and he can be hard to find, but he sells the best potions. 
+He can be lurking anywhere, but he doesn't stay in once place for very long.
 
-Muchka: A mischievous boy of 13. Everytime Reyna meets him, he always has something new for sale.
-His merchandise seems to be aquired through... unconventional practices, but it's hard to get a strait answere out of him when it comes to buisness. 
+Muchka: A mischievous boy of 13. Every time Reyna meets him, he always has something new for sale.
+His merchandise seems to be acquired through... unconventional practices. It's hard to get a strait answer out of him when it comes to business. 
+
+Limbo: A mutant creature with no body, except for a tangle of arms and legs protruding from its nucleus.
+The nucleus is its only weak spot, but is heavily protected by multiple arms. It can climb up walls, swim with ease, 
+traverse it's environment easily, and wield a variety of weapons and items with its limbs.
+
+Vaax: A tricky, shifty joker. He treats battles like games, rather than life-death situations.
+He's very difficult to defeat, due to his abilities to teleport, summon items, and manipulate the environment around him.
+
+Bai and Bo: Although they look like an innocent pair of twins, the two brothers thrive off thievery and deception.
+They love chaos, and won't fall short of violence to get what they want. Not many know that they are actually the sons of Vaax. 
+
+Noxious: A master of magic and sorcery, Noxious spends most of her abilities on house-keeping and gardening. 
+She is married to Vaax, but the two separated due to disagreements on how to raise the twins. 
+Although she puts on a bored and careless demeaner, she won't hesitate to eliminate those who oppose her. 
+
+Hectate: The darkest invention of the Shadows, Hectate is a vile spirit that takes on the form of its opponent. 
+Hectate reflects every negative aspect of its opponent, so that you are basically fighting an evil version of yourself. 
+Hectate brings out the worst in people, and grows more powerful with every human it defeats. 
 
 Market / Audience
 
