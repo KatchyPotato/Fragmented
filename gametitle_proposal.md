@@ -50,7 +50,7 @@ Protagonist: A blacksmith of a simple village named *Reyna*. Her family has been
 
 Antagonists: The Shadows that stir underneath the world, in a 4-dimensional space known as the void. They are the essence of evil, banished there by the goddesses. 
 
-Eiya: The goddess of land. She created the physical world and universe. Her yellow aura resembles the sun. 
+Eiya: The goddess of creation. She created the physical world and universe. Her yellow aura resembles the sun. 
 
 Kiya: The goddess of life. She created everything that lives in the world, from the humans to the monsters.
 Her green aura resembles life. 
