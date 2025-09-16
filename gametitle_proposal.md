@@ -94,6 +94,7 @@ completely hides her face.
 Hectate: The darkest invention of the Shadows, Hectate is a vile spirit that takes on the form of its opponent. 
 Hectate reflects every negative aspect of its opponent, so that you are basically fighting an evil version of yourself. 
 Hectate brings out the worst in people, and grows more powerful with every human it defeats. 
+When not battling, Hectate appears as a tower of swirling black mist. 
 
 Market / Audience
 
