@@ -76,7 +76,7 @@ traverse it's environment easily, and wield a variety of weapons and items with 
 although he prefers to fight with his bare-hands. His nucleus fantly glows purple. 
 
 Vaax: A tricky, shifty joker. He treats battles like games, rather than life-death situations.
-He's very difficult to defeat, due to his abilities to teleport, summon items, and manipulate the environment around him.
+He's very difficult to defeat, due to his abilitiy to teleport, summon items, and manipulate the environment around him.
 He is tall and muscular, with triangular features and purple flecks in his black skin. 
 
 Bai and Bo: Although they look like an innocent pair of twins, the two brothers thrive off thievery and deception.
@@ -102,7 +102,7 @@ People 12 and up. Older audiences would be able to enjoy and experience more abo
 Player Motivations
 
 What keeps the player playing:  
-Exploring the world, leveling up, gaining new items, engaging story, increasing difficulty.)
+Exploring the world, leveling up, gaining new items, engaging story, increasing difficulty.
 
 Unique Selling Point (USP)
 
