@@ -50,34 +50,46 @@ Protagonist: A blacksmith of a simple village named *Reyna*. Her family has been
 
 Antagonists: The Shadows that stir underneath the world, in a 4-dimensional space known as the void. They are the essence of evil, banished there by the goddesses. 
 
-Eiya: The goddess of land. She created the physical world and universe. 
+Eiya: The goddess of land. She created the physical world and universe. Her yellow aura resembles the sun. 
 
 Kiya: The goddess of life. She created everything that lives in the world, from the humans to the monsters.
+Her green aura resembles life. 
 
 Siya: The goddess of time. She wrote the history of the world. The past, present, and future are all made known to her.
+Her blue aura resembles the vast expanse of time. 
 
 Kai: A traveling blacksmith and merchant. He can be found anywhere you look, from dungeons to mountains to valleys. 
-He sells Reyna weapons and tools to assist her on her journey.
+He sells Reyna weapons and tools to assist her on her journey. He is big and burley with cropped black hair.
 
 Seil: A pointoneer trained in the art of alchemy. His prices are high, and he can be hard to find, but he sells the best potions. 
-He can be lurking anywhere, but he doesn't stay in once place for very long.
+He can be lurking anywhere, but he doesn't stay in once place for very long. He is slim and pasty, as he spends much of his time brewing indors, 
+with messy blond hair.
 
 Muchka: A mischievous boy of 13. Every time Reyna meets him, he always has something new for sale.
 His merchandise seems to be acquired through... unconventional practices. It's hard to get a strait answer out of him when it comes to business. 
+He is tiny and fast, blending into the crowd.
 
 Limbo: A mutant creature with no body, except for a tangle of arms and legs protruding from its nucleus.
+If one of his limbs is cut off, a new one will regrow in its place. 
 The nucleus is its only weak spot, but is heavily protected by multiple arms. It can climb up walls, swim with ease, 
-traverse it's environment easily, and wield a variety of weapons and items with its limbs.
+traverse it's environment easily, and wield a variety of weapons and items with its limbs,
+although he prefers to fight with his bare-hands. His nucleus fantly glows purple. 
 
 Vaax: A tricky, shifty joker. He treats battles like games, rather than life-death situations.
 He's very difficult to defeat, due to his abilities to teleport, summon items, and manipulate the environment around him.
+He is tall and muscular, with triangular features and purple flecks in his black skin. 
 
 Bai and Bo: Although they look like an innocent pair of twins, the two brothers thrive off thievery and deception.
-They love chaos, and won't fall short of violence to get what they want. Not many know that they are actually the sons of Vaax. 
+They love chaos, and won't fall short of violence to get what they want. 
+Although they bicker and fight constantly, they know how to work together as a team.
+Not many know that they are actually the sons of Vaax. They resemble a pair of weasles, 
+with large front teeth and shaggy brown hair. 
 
 Noxious: A master of magic and sorcery, Noxious spends most of her abilities on house-keeping and gardening. 
 She is married to Vaax, but the two separated due to disagreements on how to raise the twins. 
-Although she puts on a bored and careless demeaner, she won't hesitate to eliminate those who oppose her. 
+Although she puts on a bored and careless demeaner, she won't hesitate to eliminate those who oppose her.
+She dresses in hippie-atire, with bell-bottom pants, a green sweater, and a curtain of green hair that 
+completely hides her face. 
 
 Hectate: The darkest invention of the Shadows, Hectate is a vile spirit that takes on the form of its opponent. 
 Hectate reflects every negative aspect of its opponent, so that you are basically fighting an evil version of yourself. 
