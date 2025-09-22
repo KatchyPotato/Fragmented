@@ -1,0 +1,7 @@
+1. The desktop wireframes have smaller buttons, more content on the home screen, and more compact content. Phone wireframes have larger buttons, less content on the home screen (resulting in an additional home screen for more content) and more spread out content.   
+     
+2. On mobile, for the home screen, I compacted three buttons into one “more”  button. This was so the home screen buttons could be bigger, resulting in a better user experience. The slots for items in the inventory were sized up significantly, so the user could easily equip items. Visual size was generally increased so that the user could easily tell what they were looking at.   
+     
+3. I was forced to think about the optimized placement for each button, and where it should go logically. I had to make the screens look clean and organized, not just a bunch of buttons mashed together.   
+     
+4. For mobile, the user would have to go through more screens. However, clicking buttons is significantly easier, resulting in less frustration. Desktop screens have a cleaner look to them and smaller buttons/visuals. The game is optimized for desktop, so the game will look best played on a computer. Mobile users will have to sacrifice some visual looks to play on a phone.
